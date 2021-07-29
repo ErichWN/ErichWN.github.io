@@ -8,15 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://erichwn.github.io/taller-ciudad-espacio/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Encargo 03 </title>
-      <link>https://erichwn.github.io/taller-ciudad-espacio/docs/encargo-02/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://erichwn.github.io/taller-ciudad-espacio/docs/encargo-02/</guid>
-      <description>Croquis</description>
-    </item>
-    
-    <item>
       <title>Ejemplo Shortcodes</title>
       <link>https://erichwn.github.io/taller-ciudad-espacio/docs/ejemplo/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
@@ -26,12 +17,57 @@
     </item>
     
     <item>
+      <title>Avance Tema </title>
+      <link>https://erichwn.github.io/taller-ciudad-espacio/docs/encargo-avance-tema/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://erichwn.github.io/taller-ciudad-espacio/docs/encargo-avance-tema/</guid>
+      <description>Avance Tema</description>
+    </item>
+    
+    <item>
+      <title>Encargo 03 </title>
+      <link>https://erichwn.github.io/taller-ciudad-espacio/docs/encargo-dibujos/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://erichwn.github.io/taller-ciudad-espacio/docs/encargo-dibujos/</guid>
+      <description>Croquis</description>
+    </item>
+    
+    <item>
+      <title>Propuesta valores </title>
+      <link>https://erichwn.github.io/taller-ciudad-espacio/docs/encargo-prupuesta-de-valor/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://erichwn.github.io/taller-ciudad-espacio/docs/encargo-prupuesta-de-valor/</guid>
+      <description>Valores</description>
+    </item>
+    
+    <item>
       <title>Ejemplos Markdown</title>
       <link>https://erichwn.github.io/taller-ciudad-espacio/docs/markdown/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
       <guid>https://erichwn.github.io/taller-ciudad-espacio/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title> Mapa 3D </title>
+      <link>https://erichwn.github.io/taller-ciudad-espacio/docs/encargo-mapa-3d/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://erichwn.github.io/taller-ciudad-espacio/docs/encargo-mapa-3d/</guid>
+      <description>Mapa 3D</description>
+    </item>
+    
+    <item>
+      <title>Midterm </title>
+      <link>https://erichwn.github.io/taller-ciudad-espacio/docs/encargo-midterm/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://erichwn.github.io/taller-ciudad-espacio/docs/encargo-midterm/</guid>
+      <description>Midterm</description>
     </item>
     
   </channel>
